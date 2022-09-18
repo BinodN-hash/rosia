@@ -15,7 +15,7 @@ function Login(){
                              src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="Workflow" />
                     </div>
 
-                    <form action="http://localhost:8001/rest/access/login" method="post">
+                    <form>
                         <div className="shadow sm:rounded-md sm:overflow-hidden">
                             <h2 className="mt-6 text-center uppercase tracking-wide text-2 font-bold text-slate-900">
                                 Sign in to rosia account
